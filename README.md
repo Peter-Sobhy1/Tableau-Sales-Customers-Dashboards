@@ -27,15 +27,10 @@ Added calculated fields to support year-over-year (YoY) comparisons and performa
 
 Focused on overall sales performance and profitability.
 
-Features:
+**Features:**
 
-KPI Cards:
+KPI Cards: Total Sales, Total Profit, Total Quantity
 
-Total Sales
-
-Total Profit
-
-Total Quantity
 Each card includes YoY comparison text to show performance vs. the previous year.
 
 Sales & Profit by Subcategory:
@@ -50,7 +45,7 @@ Weekly trend chart comparing sales and profit levels against the average.
 
 Focused on customer behavior and profitability.
 
-Features:
+**Features:**
 
 KPI Cards:
 
@@ -91,7 +86,7 @@ Tableau Public Desktop
 
 Data Source: CSV files
 
-Data Model: Relationships (no joins)
+Data Model: Relationships
 
 Calculated Fields: For YoY comparisons, profit ratios, and KPI indicators
 
@@ -117,3 +112,8 @@ Quickly switch between sales and customer perspectives using built-in navigation
 
 ![Customers Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customer%20Dashboard.png?raw=true)
 
+
+
+Let's stay in touch!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-sobhy/)
