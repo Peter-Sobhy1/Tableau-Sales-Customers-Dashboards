@@ -1,5 +1,6 @@
 # 📊 Sales & Customer Performance Dashboards (Tableau Project)
-🧩 Project Overview
+
+🧩 **Project Overview**
 
 This project showcases two interactive Tableau dashboards — one focusing on Sales performance and the other on Customer insights.
 The dashboards were built to help business users monitor KPIs, identify trends, and analyze sales and customer behavior across different years, categories, and subcategories.
@@ -7,6 +8,7 @@ The dashboards were built to help business users monitor KPIs, identify trends, 
 The data was sourced from CSV files, and relationships were created between tables in Tableau to support the analytical requirements and answer key business questions effectively.
 
 📍 Tableau Public Link
+   
    🔗 https://public.tableau.com/app/profile/peter.sobhy/viz/SalesCustomerDashboards_17620486944990/CustomerDashboard?publish=yes
     
 
