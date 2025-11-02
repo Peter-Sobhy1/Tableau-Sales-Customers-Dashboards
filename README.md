@@ -1,4 +1,4 @@
-📊 Sales & Customer Performance Dashboards (Tableau Project)
+# 📊 Sales & Customer Performance Dashboards (Tableau Project)
 🧩 Project Overview
 
 This project showcases two interactive Tableau dashboards — one focusing on Sales performance and the other on Customer insights.
@@ -12,7 +12,7 @@ The data was sourced from CSV files, and relationships were created between tabl
     🔗 View on Tableau Public
 
 
-🗂️ Data Preparation
+## 🗂️ Data Preparation
 
 Imported multiple CSV files into Tableau.
 
@@ -20,8 +20,9 @@ Created relationships between tables (e.g., Orders, Customers, Products) to enab
 
 Added calculated fields to support year-over-year (YoY) comparisons and performance indicators.
 
-📈 Dashboards Overview
-🔹 Sales Dashboard
+# 📈 Dashboards Overview
+
+## 🔹 Sales Dashboard
 
 
 
@@ -46,7 +47,7 @@ Sales & Profit per Week:
 
 Weekly trend chart comparing sales and profit levels against the average.
 
-🔹 Customer Dashboard
+## 🔹 Customer Dashboard
 
 Focused on customer behavior and profitability.
 
@@ -69,7 +70,7 @@ Top 10 Customers by Profit:
 
 Tabular view showing top performers, their last order date, total profit, and total sales.
 
-🧭 Navigation & Interactivity
+## 🧭 Navigation & Interactivity
 
 Added navigation buttons to move seamlessly between the Sales and Customer dashboards.
 
@@ -85,7 +86,7 @@ Location
 
 Tooltips and highlights added for better user experience and data exploration.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Tableau Public Desktop
 
@@ -95,7 +96,7 @@ Data Model: Relationships (no joins)
 
 Calculated Fields: For YoY comparisons, profit ratios, and KPI indicators
 
-🎯 Business Impact
+## 🎯 Business Impact
 
 This dashboard enables users to:
 
@@ -107,7 +108,7 @@ Analyze customer purchasing behavior and identify top contributors.
 
 Quickly switch between sales and customer perspectives using built-in navigation.
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 Sales Dashboard
 
