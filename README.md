@@ -111,8 +111,8 @@ Quickly switch between sales and customer perspectives using built-in navigation
 ## 📸 Dashboard Preview
 
 Sales Dashboard
-
+![Sales Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Sales%20Dashboard.png?raw=true)
 
 Customer Dashboard
-![Customers Dashboard]/(https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customer%20Dashboard.png?raw=true)
+![Customers Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customer%20Dashboard.png?raw=true)
 
