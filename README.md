@@ -7,9 +7,8 @@ The dashboards were built to help business users monitor KPIs, identify trends, 
 The data was sourced from CSV files, and relationships were created between tables in Tableau to support the analytical requirements and answer key business questions effectively.
 
 📍 Tableau Public Link
-    https://public.tableau.com/app/profile/peter.sobhy/viz/SalesCustomerDashboards_17620486944990/CustomerDashboard?publish=yes
+   🔗 https://public.tableau.com/app/profile/peter.sobhy/viz/SalesCustomerDashboards_17620486944990/CustomerDashboard?publish=yes
     
-    🔗 View on Tableau Public
 
 
 ## 🗂️ Data Preparation
@@ -110,9 +109,11 @@ Quickly switch between sales and customer perspectives using built-in navigation
 
 ## 📸 Dashboard Preview
 
-Sales Dashboard
+### Sales Dashboard
+
 ![Sales Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Sales%20Dashboard.png?raw=true)
 
-Customer Dashboard
+### Customer Dashboard
+
 ![Customers Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customer%20Dashboard.png?raw=true)
 
