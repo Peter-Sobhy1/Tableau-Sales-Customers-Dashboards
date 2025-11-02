@@ -114,5 +114,5 @@ Sales Dashboard
 
 
 Customer Dashboard
-
+[Customers Dashboard]/[https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customer%20Dashboard.png?raw=true]
 
