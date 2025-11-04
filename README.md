@@ -114,6 +114,10 @@ Quickly switch between sales and customer perspectives using built-in navigation
 
 ![Customers Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customers%20Dashboard.png?raw=true)
 
+ **Filter Pane:**
+
+![Filter Pane](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Filter%20Pane.png?raw=true)
+
 
 
 Let's stay in touch!
