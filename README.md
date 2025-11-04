@@ -9,7 +9,7 @@ The data was sourced from CSV files, and relationships were created between tabl
 
 📍 Tableau Public Link
    
-    🔗 https://public.tableau.com/app/profile/peter.sobhy/viz/SalesCustomerDashboards_17620486944990/SalesDashboard?publish=yes
+    🔗https://public.tableau.com/app/profile/peter.sobhy/viz/SalesCustomerDashboards_17620486944990/SalesDashboard?publish=yes
     
  
 
