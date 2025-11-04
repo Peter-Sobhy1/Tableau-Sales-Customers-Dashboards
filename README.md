@@ -112,7 +112,7 @@ Quickly switch between sales and customer perspectives using built-in navigation
 
  **Customer Dashboard:**
 
-![Customers Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customer%20Dashboard.png?raw=true)
+![Customers Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customers%20Dashboard.png?raw=true)
 
 
 
