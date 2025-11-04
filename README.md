@@ -8,9 +8,8 @@ The dashboards were built to help business users monitor KPIs, identify trends, 
 The data was sourced from CSV files, and relationships were created between tables in Tableau to support the analytical requirements and answer key business questions effectively.
 
 📍 Tableau Public Link
-   
-    👉 View on Tableau Public
 
+🔗 https://public.tableau.com/app/profile/peter.sobhy/viz/SalesCustomerDashboards_17620486944990/SalesDashboard?publish=yes
 
 
 ### 🗂️ Data Preparation
