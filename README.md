@@ -1,109 +1,74 @@
-## 📊 Sales & Customer Performance Dashboards (Tableau Project)
+# 📊 Sales & Customer Performance Dashboards
 
-🧩 **Project Overview**
+### 🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/peter.sobhy/viz/SalesCustomerDashboards_17620486944990/SalesDashboard?publish=yes)
 
-This project showcases two interactive Tableau dashboards — one focusing on Sales performance and the other on Customer insights.
-The dashboards were built to help business users monitor KPIs, identify trends, and analyze sales and customer behavior across different years, categories, and subcategories.
+---
 
-The data was sourced from CSV files, and relationships were created between tables in Tableau to support the analytical requirements and answer key business questions effectively.
+## 🧩 Project Overview
 
+Built two interactive Tableau dashboards to help business stakeholders monitor sales performance and customer behavior across product categories, subcategories, and geographic locations. The project covers year-over-year trend analysis, customer segmentation, and profitability breakdowns — designed to support data-driven decisions in sales strategy and customer retention.
 
-📍 **Tableau Public Link**
+**Data Source:** CSV files (Orders, Customers, Products)
+**Tool:** Tableau Public Desktop
+**Data Model:** Relationships between tables for dynamic cross-filtering
 
-🔗 https://public.tableau.com/app/profile/peter.sobhy/viz/SalesCustomerDashboards_17620486944990/SalesDashboard?publish=yes
+---
 
+## 🔍 Key Findings
 
+- **Revenue grew 20.4% YoY** ($733K in 2023 vs. prior year), but profit grew at a slower rate of **14.2%**, signaling rising costs or margin pressure in specific subcategories.
+- **Phones and Chairs** drove the highest sales volume, while **Copiers generated a net loss** despite significant sales — a critical profitability red flag for the business.
+- **Sales spike sharply in weeks 45–50**, suggesting strong end-of-year seasonality that the business can leverage for targeted promotions.
+- **693 customers placed 1,687 orders**, but the majority placed only **1–2 orders**, indicating a low repeat purchase rate and a clear opportunity for customer retention strategies.
+- **Top 10 customers by profit contributed disproportionately to revenue**, with the #1 customer (Raymond Buch) generating $6,781 in profit from just 3 orders — highlighting the value of high-value customer identification.
 
-### 🗂️ Data Preparation
-
-Imported multiple CSV files into Tableau.
-
-Created relationships between tables (e.g., Orders, Customers, Products) to enable dynamic cross-filtering and accurate aggregation.
-
-Added calculated fields to support year-over-year (YoY) comparisons and performance indicators.
+---
 
 ## 📈 Dashboards Overview
 
 ### 🔹 Sales Dashboard
 
-
-
-Focused on overall sales performance and profitability.
+Tracks overall sales performance and profitability across product subcategories.
 
 **Features:**
+- **KPI Cards:** Total Sales, Total Profit, Total Quantity — each with YoY % change and monthly sparkline highlighting highest and lowest months
+- **Sales & Profit by Subcategory:** Dual bar chart comparing 2023 vs. 2022 performance with profit/loss color coding per subcategory
+- **Sales & Profit Per Week:** Weekly trend chart with above/below average indicators for both sales and profit
 
-KPI Cards: Total Sales, Total Profit, Total Quantity
-
-Each card includes YoY comparison text to show performance vs. the previous year.
-
-Sales & Profit by Subcategory:
-
-Dual bar chart displaying 2023 vs. 2022 performance for each subcategory.
-
-Sales & Profit per Week:
-
-Weekly trend chart comparing sales and profit levels against the average.
+---
 
 ### 🔹 Customer Dashboard
 
-Focused on customer behavior and profitability.
+Tracks customer acquisition, order behavior, and top customer profitability.
 
 **Features:**
+- **KPI Cards:** Total Customers, Sales per Customer, Total Orders — each with YoY % change and monthly sparkline
+- **Customer Distribution by Number of Orders:** Histogram showing order frequency distribution across the customer base
+- **Top 10 Customers by Profit:** Table view showing rank, last order date, 2023 profit, 2023 sales, and total orders
 
-KPI Cards:
+---
 
-Total Customers
+## 🧭 Navigation & Interactivity
 
-Sales per Customer
+- **Dashboard navigation buttons** for seamless switching between Sales and Customer views
+- **Show/hide filter panel** (toggle via filter icon in the top right) with filters for:
+  - Year
+  - Product Category & Subcategory
+  - State, City, and Region
+- **Tooltips and highlights** for deeper data exploration on hover
 
-Total Orders
-Each includes a YoY comparison indicator.
+---
 
-Customer Distribution by Number of Orders:
+## 🛠️ Tools & Technologies
 
-Histogram chart showing how many customers placed 1, 2, 3, or more orders.
+| Tool | Usage |
+|------|-------|
+| Tableau Public Desktop | Dashboard design and publishing |
+| CSV Files | Raw data source (Orders, Customers, Products) |
+| Tableau Relationships | Data modeling for cross-filtering |
+| Calculated Fields | YoY comparisons, profit ratios, KPI indicators |
 
-Top 10 Customers by Profit:
-
-Tabular view showing top performers, their last order date, total profit, and total sales.
-
-### 🧭 Navigation & Interactivity
-
-Added navigation buttons to move seamlessly between the Sales and Customer dashboards.
-
-Included a show/hide filter panel allowing users to filter by:
-
-Year
-
-Category
-
-Subcategory
-
-Location
-
-Tooltips and highlights added for better user experience and data exploration.
-
-### 🛠️ Tools & Technologies
-
-Tableau Public Desktop
-
-Data Source: CSV files
-
-Data Model: Relationships
-
-Calculated Fields: For YoY comparisons, profit ratios, and KPI indicators
-
-### 🎯 Business Impact
-
-This dashboard enables users to:
-
-Track sales and profit trends over time.
-
-Understand performance differences across subcategories.
-
-Analyze customer purchasing behavior and identify top contributors.
-
-Quickly switch between sales and customer perspectives using built-in navigation.
+---
 
 ### 📸 Dashboard Preview
 
